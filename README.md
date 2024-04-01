@@ -64,7 +64,9 @@ cm_display=metrics.ConfusionMatrixDisplay(confusion_matrix=confusion,display_lab
 cm_display.plot()
 ```
 ## Output:
+## ACCURACY SCORE AND CLASSIFICATION REPORT:
 ![image](https://github.com/gpavana/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787343/346866c7-63b0-4646-a8c9-ee138c70d60a)
+## DISPLAYING:
 ![image](https://github.com/gpavana/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787343/e12156b5-03cf-4a5b-a6f1-5de2b0963681)
 
 ## Result:
