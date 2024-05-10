@@ -1,13 +1,13 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-
-## AIM:
+## Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+### DATE:27.02.2024
+### AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
-## Equipments Required:
+### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+### Algorithm
 1. Import the required packages and print the present data.
 2. Print the placement data and salary data.
 3. Find the null and duplicate values.
@@ -15,7 +15,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 5. Display the results.
  
 
-## Program:
+### Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: PAVANA.G
@@ -63,11 +63,11 @@ from sklearn import metrics
 cm_display=metrics.ConfusionMatrixDisplay(confusion_matrix=confusion,display_labels=[True,False])
 cm_display.plot()
 ```
-## Output:
-## ACCURACY SCORE AND CLASSIFICATION REPORT:
+### Output:
+### ACCURACY SCORE AND CLASSIFICATION REPORT:
 ![image](https://github.com/gpavana/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787343/346866c7-63b0-4646-a8c9-ee138c70d60a)
-## DISPLAYING:
+### DISPLAYING:
 ![image](https://github.com/gpavana/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118787343/e12156b5-03cf-4a5b-a6f1-5de2b0963681)
 
-## Result:
+### Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
